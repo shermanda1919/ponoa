@@ -1,4 +1,4 @@
-# ponoa
+# Ponoa
 HackSwiftly 2020 Submission by Lucas Tang and Amanda Sherman
 
    The vast majority of people these days are facing a whirlwind of panic and confusion in the wake of this pandemic. As the death toll from the coronavirus climbs day by day, a phenomenon called the Placebo Effect is taking place, in which individuals self diagnose themselves out of fear because of the diagnoses going on all around them. Irregular breathing rates are one of the top three symptoms found in COVID-19 patients; however, there is no efficient system yet to track them on the market without putting doctors at risk of person to person transmission. In our current situation, doctors just don't have enough reliable data. Sure the patient could say that they are short of breath but how can doctors tell if it is just the placebo effect or not? This is where Ponoa comes in, providing solid numbers where there was nothing before but the patient's word. If more data were to be provided to scared individuals, they would be more likely to contact their primary care physicians and discuss any symptoms with them instead of making rash decisions. 
