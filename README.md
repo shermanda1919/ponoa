@@ -21,4 +21,4 @@ Software
 2. Arduino
 3. Atom
 4. Appery.io
-5. Assembly (Logo)
+5. Assembly
